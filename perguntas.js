@@ -15,3 +15,13 @@ criaCartao(
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
+criaCartao(
+    'Artes',
+    'Quem pintou a obra Monalisa ?',
+    'Leornado da Vince'
+)
+criaCartao(
+    'futebol',
+    'Quem ganhou a bola de ouro de 2024 ?',
+    'Rodri'
+)
